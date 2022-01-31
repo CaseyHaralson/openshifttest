@@ -27,6 +27,17 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.ibm</groupId>
+			<artifactId>db2jcc_license_cisuz</artifactId>
+			<version>11.1</version>
+		</dependency>
+		<dependency>
+			<groupId>com.ibm</groupId>
+			<artifactId>db2jcc4</artifactId>
+			<version>11.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
